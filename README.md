@@ -1,6 +1,6 @@
 # HTML-cheat-sheet
 
-For __quick reference__ about some of the most attributes in a range of topics.
+For __quick reference__ about some of the most common attributes in a range of topics.
 
 ## Futher updates comming:
 
